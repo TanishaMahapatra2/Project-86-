@@ -1,0 +1,24 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   background-color:white;
+   border-color:deeppink;
+   border-width:11px;
+   border-style:ridge;
+}
+
+#button_dear_sister
+{
+    background-color:orangered;
+    height:40px;
+    width:160px;
+    font-size:20px;
+    color:rgb(55, 5, 219);
+    
+}
+
